@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\PfCalculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\PfCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\PfCalculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\PfCalculator.AssemblyInfo.cs
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\PfCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\PfCalculator\bin\Debug\net6.0\PfCalculator.exe
+C:\Users\Administrator\Documents\PfCalculator\bin\Debug\net6.0\PfCalculator.deps.json
+C:\Users\Administrator\Documents\PfCalculator\bin\Debug\net6.0\PfCalculator.runtimeconfig.json
+C:\Users\Administrator\Documents\PfCalculator\bin\Debug\net6.0\PfCalculator.dll
+C:\Users\Administrator\Documents\PfCalculator\bin\Debug\net6.0\PfCalculator.pdb
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\PfCalculator.dll
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\refint\PfCalculator.dll
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\PfCalculator.pdb
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\PfCalculator.genruntimeconfig.cache
+C:\Users\Administrator\Documents\PfCalculator\obj\Debug\net6.0\ref\PfCalculator.dll
